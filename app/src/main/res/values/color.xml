@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="htransparent">#a1000000</color>
+    <color name="WhiteColor">#ffffff</color>
+    <color name="BlackColor">#000000</color>
+    <color name="black_alpha">#99000000</color>
+    <color name="RedColor">#ff0000</color>
+    <color name="GrayColor">#FFB3B3B3</color>
+    <color name="light_grey">#b9b9b9</color>
+    <color name="light_grey_bg">#f0f1f2</color>
+    <color name="light_black_color">#333333</color>
+    <color name="gray_nine_text_color">#999999</color>
+    <color name="gray">#bbbbbb</color>
+    <color name="gray1">#797979</color>
+    <color name="white_page_bg">#f2f2f2</color>
+    <color name="white_desc_bg">#fff9e5</color>
+    <color name="activity_tag_color">#01aeff</color>
+    <color name="blue_at_text_color">#52c4e8</color>
+</resources>

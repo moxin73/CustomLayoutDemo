@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="item_txt_small" parent="txt_base">
+        <item name="android:textSize">@dimen/tsize12</item>
+    </style>
+    <style name="item_txt_large" parent="txt_base">
+        <item name="android:textSize">@dimen/tsize22</item>
+    </style>
+
+    <style name="item_txt_big" parent="txt_base">
+        <item name="android:textSize">@dimen/tsize18</item>
+    </style>
+
+    <style name="item_txt_middle" parent="txt_base">
+        <item name="android:textSize">@dimen/tsize14</item>
+    </style>
+
+    <style name="item_txt_include" parent="txt_base">
+        <item name="android:textSize">@dimen/tsize16</item>
+    </style>
+
+    <style name="txt_base">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+</resources>
